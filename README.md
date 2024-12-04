@@ -1,2 +1,2 @@
-# An-lise-com-LLM
+# Analise-com-LLM
 Utilizando API do ChatGPT para fazer análise de dados
